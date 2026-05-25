@@ -6,9 +6,12 @@
 
 This project analyzes anonymized, district-level Aadhaar enrolment data to solve operational inefficiencies in the UIDAI ecosystem. By performing Exploratory Data Analysis (EDA) on millions of records, I identified critical spikes in demand and saturation points. The result is a Prescriptive Framework that allows administrators to reallocate workforce and hardware resources, potentially reducing center overcrowding by **30-40%** without increasing operational costs.
 
-**The Inefficiency**: Aadhaar enrolment centers often face extreme regional and temporal overcrowding, leading to long wait times and equipment strain.
-**The Objective**: Analyze age-wise, regional, and temporal patterns to transition from a "fixed-capacity" model to a "demand-driven" resource allocation strategy.
-**The Challenge**: Near-saturation in adult populations means the service focus must shift from "mass enrollment" to "targeted age-group acquisition."
+### **The Inefficiency**:
+Aadhaar enrolment centers often face extreme regional and temporal overcrowding, leading to long wait times and equipment strain.
+### **The Objective**: 
+Analyze age-wise, regional, and temporal patterns to transition from a "fixed-capacity" model to a "demand-driven" resource allocation strategy.
+### **The Challenge**: 
+Near-saturation in adult populations means the service focus must shift from "mass enrollment" to "targeted age-group acquisition."
 
 
 ## 1. Technical Logic & Data Pipeline
