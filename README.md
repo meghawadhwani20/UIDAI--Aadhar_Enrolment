@@ -25,16 +25,16 @@ Created a total_enrolment metric and extracted temporal features (Year, Month, Q
 #### The 0-5 Priority:
 **65.3%** of all new enrolments are in the **0–5** age group, while adults **(18+)** account for only **3.1%**.
 #### Adult enrollment has reached near-saturation; centers must be optimized for pediatric biometric capture.
-##### **Regional Concentration**: 
+#### **Regional Concentration**: 
 The top **10** states drive the vast majority of volume, with Uttar Pradesh alone contributing **1,018,629** enrolments—nearly double the next highest state **(Bihar)**.
-##### **The January Spike**: 
+#### **The January Spike**: 
 Data revealed a sharp drop from **1.35 million** in **January** to **0.18** million in **February** (a ~90% decline).Analyst Insight: High-volume spikes are likely tied to year-beginning administrative cycles or school admissions.
 
 
 ## 2. Data Visualization Dashboard
-##### **Top Districts**: 
+#### **Top Districts**: 
 Identified Thane and Sitamarhi as the highest-load districts requiring immediate resource intervention.
-##### **Trend Tracking**:
+#### **Trend Tracking**:
 Visualized the 3-Month Moving Average to differentiate between random noise and predictable operational demand.
 
 
